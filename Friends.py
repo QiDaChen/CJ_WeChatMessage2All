@@ -38,3 +38,4 @@ class OneMerber():
         self.Name = self.Name if FriendsMom == [] else "阿姨"
         self.Name = self.Name[-3:]
         self.Name = self.NickName if self.Name == '' else self.Name
+    print("ok")
